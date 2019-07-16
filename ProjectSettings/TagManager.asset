@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Cubik
   - ScoreCounter
+  - HitCounter
   layers:
   - Default
   - TransparentFX
